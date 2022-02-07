@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/guiiiiiiillaume" target="blank"><img src="https://img.shields.io/twitter/follow/guiiiiiiillaume?logo=twitter&style=for-the-badge" alt="guiiiiiiillaume" /></a> </p>
 
-- 🔭 I’m currently working on [MyCrypto](https://github.com/MyCryptoHQ/MyCrypto)
+- 🔭 I’m currently working on [MetaMask](https://github.com/MetaMask)
 
 - 🌱 I’m currently learning **Solidity, Smart Contracts, Electron**
 
