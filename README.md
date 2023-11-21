@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guillaume</h1>
-<h3 align="center">A Web/Blockchain developer from Paris</h3>
+<h3 align="center">A Software Engineer from Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guillaumerx&label=Profile%20views&color=000000&style=flat" alt="guillaumerx" /> </p>
 
