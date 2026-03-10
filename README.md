@@ -47,6 +47,3 @@ const guillaume = {
 [![Email](https://img.shields.io/badge/hello@guillaumerx.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@guillaumerx.fr)
 
 </div>
-```
-
-(Note: the closing triple backtick for the code block should be ` ``` ` with no spaces — I had to add spaces above to avoid breaking the outer code block display.)
